@@ -1,6 +1,6 @@
 # sorting_danish
   can visit [here](https://danishsharma496.github.io/sorting_danish/) to access and explore your sorting visualizer  
- Here's a brief 5-line description of the sorting algorithms with color changes in your visualizer:
+ 
 
 ## Sorting Algorithms
 
